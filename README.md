@@ -1,5 +1,6 @@
-# genesys
-Pexip-Genesys Integration WebApp3 Plugin
+# Pexip Genesys Integration - WebApp3 Plugin
+
+Pexip-Genesys Integration WebApp3 Plugin for direct calling to Genesys Agent with CustomerName (CLID) Interaction presentation
 
 1. Configure Genesys-Pexip Integration
 
