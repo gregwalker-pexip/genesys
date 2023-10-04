@@ -23,4 +23,4 @@ How it works:
 3. Create the custom SIP X-header with agendID & alias ensring the encoding is ASCII as default Genesys encosing is Hex
 4. On Meeting connection dial-out to Genesys queue with custom SIP header using Pexip API
 5. Genesys connects and call is routed to agent with calling name of Customer (in Interaction)
-6. Agent escalts to video using the standard Pexip-Genesys Cloud Interaction Widget
+6. Agent escalates to video using the standard Pexip-Genesys Cloud Interaction Widget
