@@ -1,7 +1,7 @@
 import { registerPlugin, InputElement } from "@pexip/plugin-api";
 //Note: Genesys must be configured for x-header processing
 
-let genesysSIPAddress = "+6110001@au.pextest.com.byoc.mypurecloud.com.au"; //Specific Genesys Instance
+let genesysSIPAddress = "+AAAAA@domain.com.byoc.mypurecloud.com"; //Specific Genesys Instance
 let genesysAgent;
 let genesysAgentDomainSuffix = ";encoding=ascii";
 let genesysDialer;
