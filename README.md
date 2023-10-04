@@ -7,7 +7,7 @@ Pexip-Genesys Integration WebApp3 Plugin
 
 3. Build with Yarn
 
-4.Deploy WebApp3 Plugin
+4. Deploy WebApp3 Plugin
   
 5. Test by connecting to Genesys Agent
    ->  https://PexipInfinity/branding/m/vmr/express?agent=agentname@domain.com
