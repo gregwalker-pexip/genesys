@@ -13,7 +13,7 @@ Pexip-Genesys Integration WebApp3 Plugin for direct calling to Genesys Agent wit
 5. Test by connecting to Genesys Agent
    ->  https://PexipInfinity/branding/m/vmr/express?agent=agentname@domain.com
 
-Note: must deploy as CORS will block URL Search Params unless running from same domain
+Note: must deploy as IFrame\CORS will block URL Search Params unless running within the same domain
 
 
 
